@@ -4,16 +4,16 @@ Um sistema básico de compras de um mercado fictício.
 
 ### 📋 Pré-requisitos
 
-*Ter NodeJs <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="html5" width="14" height="14" style="max-width:100%"> instalado na sua máquina;
+* Ter NodeJs <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="html5" width="14" height="14" style="max-width:100%"> instalado na sua máquina;
 
 ### 🔧 Instalação
 
 Caso não tenha o NodeJs <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="html5" width="14" height="14" style="max-width:100%"> instalado na sua máquina, este link te levará para o site oficial, onde poderá baixá-lo
 <a href="https://nodejs.org/en/">NodeJS</a>
 
-*Depois de ter baixado e revisado sua instalação, seguir esses passos:
-    -Rodar o comando 'npm install' para instalar as dependências necessárias;
-    -Rodar o comando 'npm start' para a página renderizar no navegador.
+* Depois de ter baixado e revisado sua instalação, seguir esses passos:
+    - Rodar o comando 'npm install' para instalar as dependências necessárias;
+    - Rodar o comando 'npm start' para a página renderizar no navegador.
 
 
 ## 🛠️ Construído com
